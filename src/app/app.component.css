@@ -17,7 +17,7 @@
     align-items: center;
 }
 
-input{
+#inp{
        width: 200px;
        height: 25px;
        border: 1px solid black;
